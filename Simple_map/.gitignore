@@ -1,0 +1,4 @@
+# Ignore the config.js file.
+config.js
+# and the script.js
+script.js
